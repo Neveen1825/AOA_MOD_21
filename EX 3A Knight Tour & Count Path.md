@@ -1,5 +1,4 @@
 # EX 3A Knight Tour & Count Path
-## DATE:
 ## AIM:
 To write a python program to find minimum steps to reach to specific cell in minimum moves by knight
 
@@ -14,8 +13,8 @@ To write a python program to find minimum steps to reach to specific cell in min
 ## Program:
 ```
 Program to implement to find minimum steps to reach to specific cell in minimum moves by knight.
-Developed by: Saravanan PV
-Register Number: 212223230195
+Developed by: Naveen Kanthan L
+Register Number: 212223230138
 ```
 ```python
 from collections import deque
