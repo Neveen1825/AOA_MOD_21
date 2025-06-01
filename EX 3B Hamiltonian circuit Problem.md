@@ -1,5 +1,4 @@
 # EX 3B Hamiltonian Circuit Problem
-## DATE:
 ## AIM:
 To write a python program to check whether Hamiltonian path exits in the given graph.
 
@@ -13,8 +12,8 @@ To write a python program to check whether Hamiltonian path exits in the given g
 ## Program:
 ```
 Program to implement to check whether Hamiltonian path exits in the given graph.
-Developed by: Saravanan PV
-Register Number: 212223230195
+Developed by: Naveen Kanthan L
+Register Number: 212223230138
 ```
 ```python
 def isSafe(v, pos, path, adj):
